@@ -14,13 +14,13 @@ https://assetstore.unity.com/packages/2d/environments/free-pixel-gear-113561
   
 https://assetstore.unity.com/packages/2d/gui/simple-fantasy-gui-99451  
   
-Unity m_EditorVersion:  2020.2.3f1  
+Unity m_EditorVersion:  2020.2.5f1  
   
-Keyboard  
+KEYBOARD  
   
-UP:  W OR UP  
-DOWN:  S OR DOWN  
-LEFT:  A OR LEFT  
-RIGHT:  D OR RIGHT  
-BAG:  O  
+UP: w or up  
+DOWN: s or down  
+LEFT: a or left  
+RIGHT: d or right   
+BAG:  o  
   
