@@ -14,7 +14,7 @@ https://assetstore.unity.com/packages/2d/environments/free-pixel-gear-113561
   
 https://assetstore.unity.com/packages/2d/gui/simple-fantasy-gui-99451  
   
-Unity m_EditorVersion:  2020.2.7f1  
+Unity m_EditorVersion:  2020.3.0f1  
   
 KEYBOARD  
   
